@@ -1,0 +1,28 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "brazilchamp",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "brazilchamp (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "brazilchamp (release mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "brazilchamp (Flutter Tests)",
+      "program": "test",
+      "request": "launch",
+      "type": "dart"
+    },
+  ]
+}
