@@ -37,12 +37,12 @@ lib/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/samuelbaldasso/Brazil_Champ-Dart-Flutter-JSON_API-Flutter_Web.git
+git clone https://github.com/samuelbaldasso/BrazilChamp.git
 ```
 
 2. Navegue até o diretório do projeto:
 ```bash
-cd Brazil_Champ-Dart-Flutter-JSON_API-Flutter_Web
+cd BrazilChamp
 ```
 
 3. Instale as dependências:
